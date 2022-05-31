@@ -1,0 +1,2 @@
+class Locked extends Error {}
+
